@@ -13,7 +13,6 @@ Attractive UI: Modern color scheme, animated elements, and intuitive navigation.
 Emergency Access: Quick contact options for urgent care.
 Mobile-Friendly: Fully responsive for smartphones and tablets.
 Tech Stack
-Frontend: HTML5, CSS3 (Flexbox/Grid), JavaScript, Bootstrap
-Visuals: Font Awesome icons, Google Fonts, optimized images
+Frontend: HTML, CSS, JavaScript.
 Interactive Features: Smooth scrolling, form validation, hover effects
 
